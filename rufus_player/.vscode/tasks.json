@@ -1,0 +1,17 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "flutter",
+			"command": "flutter",
+			"args": [
+				"pub",
+				"run",
+				"flutter_launcher_icons:main"
+			],
+			"problemMatcher": [],
+			"label": "flutter: flutter pub run flutter_launcher_icons:main",
+			"detail": ""
+		}
+	]
+}
